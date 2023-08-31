@@ -22,7 +22,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 python-telegram-bot==12.6.1
 pytz==2019.3
-requests==2.23.0
+requests==2.31.0
 rsa==4.0
 six==1.14.0
 soupsieve==2.0
